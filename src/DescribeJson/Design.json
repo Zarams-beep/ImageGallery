@@ -1,0 +1,60 @@
+[
+    {"id": 1, "name": "Graphic Design Software", "price": 199.99, "description": "Professional software for creating graphics.", "img":"src/ImageFolder/Design/guy-yama-SiWc3UnEFoc-unsplash.jpg"},
+    {"id": 2, "name": "Sketchbook", "price": 25.00, "description": "High-quality sketchbook for artists.", "img":"src/ImageFolder/Design/fons-heijnsbroek-abstract-art-LUz8F-LoRlc-unsplash.jpg"},
+
+    {"id": 3, "name": "Color Wheel", "price": 15.99, "description": "Essential tool for color theory and mixing.", "img":"src/ImageFolder/Design/guy-yama-54QjR03LEUs-unsplash.jpg"},
+
+    {"id": 4, "name": "Design Tablet", "price": 349.99, "description": "Digital tablet for drawing and design.", "img":"src/ImageFolder/Design/igor-omilaev-AJppCZXj7u0-unsplash.jpg"},
+
+    {"id": 5, "name": "Typography Book", "price": 40.00, "description": "Comprehensive guide to typography.", "img":"src/ImageFolder/Design/igor-omilaev-zRr0uBFYEtA-unsplash.jpg"},
+
+    {"id": 6, "name": "Mood Board Kit", "price": 29.99, "description": "Materials for creating inspiring mood boards.", "img":"src/ImageFolder/Design/irham-setyaki-CQxj1R1hKts-unsplash.jpg"},
+
+    {"id": 7, "name": "3D Modeling Software", "price": 299.99, "description": "Software for creating 3D designs and animations.", "img":"src/ImageFolder/Design/jess-bailey-l3N9Q27zULw-unsplash.jpg"},
+
+    {"id": 8, "name": "Logo Design Package", "price": 150.00, "description": "Custom logo design service for businesses.", "img":"src/ImageFolder/Design/joanna-kosinska-1_CMoFsPfso-unsplash.jpg"},
+
+    {"id": 9, "name": "Illustration Brushes", "price": 19.99, "description": "Set of digital brushes for illustration.", "img":"src/ImageFolder/Design/jonny-caspari-KuudDjBHIlA-unsplash.jpg"},
+
+    {"id": 10, "name": "Presentation Template", "price": 29.99, "description": "Professional template for stunning presentations.", "img":"src/ImageFolder/Design/josh-hild-JYQkVLOPy8U-unsplash.jpg"},
+
+    {"id": 11, "name": "Business Card Design", "price": 75.00, "description": "Custom design for professional business cards.", "img":"src/ImageFolder/Design/kanhaiya-sharma-_HdRQWJ-Pt8-unsplash.jpg"},
+
+    {"id": 12, "name": "Photography Backdrops", "price": 99.99, "description": "Variety of backdrops for photography shoots.", "img":"src/ImageFolder/Design/keila-hotzel-lFmuWU0tv4M-unsplash.jpg"},
+
+    {"id": 13, "name": "Vector Graphics Pack", "price": 49.99, "description": "Collection of vector graphics for projects.", "img":"src/ImageFolder/Design/mae-mu--tsfLxitb5g-unsplash.jpg"},
+
+    {"id": 14, "name": "Infographic Maker", "price": 89.99, "description": "Tool for creating engaging infographics.", "img":"src/ImageFolder/Design/mulyadi-BnRS-iC4HhU-unsplash.jpg"},
+
+    {"id": 15, "name": "Design Course Voucher", "price": 150.00, "description": "Voucher for an online design course.", "img":"src/ImageFolder/Design/mulyadi-d3s3GD4C4DE-unsplash.jpg"},
+
+    {"id": 16, "name": "Creative Logo Templates", "price": 29.99, "description": "Pre-designed logo templates for quick use.", "img":"src/ImageFolder/Design/mulyadi-Jc-aAOo9-QY-unsplash.jpg"},
+
+    {"id": 17, "name": "Social Media Kit", "price": 75.00, "description": "Graphics and templates for social media marketing.", "img":"src/ImageFolder/Design/nadine-shaabana-qZW4KIa2UJA-unsplash.jpg"},
+
+    {"id": 18, "name": "Mockup Templates", "price": 35.00, "description": "Realistic mockups for presenting designs.", "img":"src/ImageFolder/Design/nasa-Q1p7bh3SHj8-unsplash.jpg"},
+
+    {"id": 19, "name": "Packaging Design Service", "price": 250.00, "description": "Custom design for product packaging.", "img":"src/ImageFolder/Design/nik-MAgPyHRO0AA-unsplash.jpg"},
+
+    {"id": 20, "name": "Font Collection", "price": 49.99, "description": "Set of unique fonts for creative projects.", "img":"src/ImageFolder/Design/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg"},
+
+    {"id": 21, "name": "User Interface Kit", "price": 99.99, "description": "UI components for web and app design.", "img":"src/ImageFolder/Design/ryan-ancill-aJYO8JmVodY-unsplash.jpg"},
+
+    {"id": 22, "name": "Color Palette Generator", "price": 10.99, "description": "Tool for creating color palettes.", "img":"src/ImageFolder/Design/sarah-dorweiler-QeVmJxZOv3k-unsplash.jpg"},
+
+    {"id": 23, "name": "Art Supplies Bundle", "price": 60.00, "description": "Complete set of art supplies for designers.", "img":"src/ImageFolder/Design/sardar-faizan-KKhnYhrd2Ak-unsplash.jpg"},
+
+    {"id": 24, "name": "Print Design Service", "price": 200.00, "description": "Custom print design for brochures and flyers.", "img":"src/ImageFolder/Design/shawn-celavie-2zWm-oroto0-unsplash.jpg"},
+
+    {"id": 25, "name": "Digital Collage Kit", "price": 25.00, "description": "Materials for creating digital collages.", "img":"src/ImageFolder/Design/greg-rakozy-oMpAz-DN-9I-unsplash.jpg"},
+
+    {"id": 26, "name": "Website Design Template", "price": 79.99, "description": "Responsive template for building websites.", "img":"src/ImageFolder/Design/shubham-dhage-eV_b2ivEWDg-unsplash.jpg"},
+
+    {"id": 27, "name": "Creative Branding Guide", "price": 39.99, "description": "Guide to developing a unique brand identity.", "img":"src/ImageFolder/Design/true-agency-Q8otix2SVko-unsplash.jpg"},
+
+    {"id": 28, "name": "Storyboard Template", "price": 15.00, "description": "Template for planning visual stories.", "img":"src/ImageFolder/Design/vitalii-khodzinskyi-j596eGBbJb0-unsplash.jpg"},
+
+    {"id": 29, "name": "Presentation Software", "price": 89.99, "description": "Software for creating dynamic presentations.", "img":"src/ImageFolder/Design/vladislav-iakunichev-xd5inDVwPs0-unsplash.jpg"},
+
+    {"id": 30, "name": "Design Inspiration Book", "price": 35.00, "description": "Collection of design inspiration and ideas.", "img":"src/ImageFolder/Design/guy-yama-8ZQjuycIoc4-unsplash.jpg"}
+]

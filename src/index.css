@@ -1,0 +1,613 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 1000px;
+  overflow-x: hidden;
+}
+body{
+  margin: 0;
+  padding: 0;
+  /* overflow-x: hidden; */
+}
+.boxHeader{
+ background-color: #242424;
+ position: relative;
+ 
+}
+
+.smallBoxHeader,.secondSmallBoxHeader{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: .5rem;
+}
+.secondSmallBoxHeader{
+  padding-left: 1rem;
+  padding-right: 1rem;
+  height: 4rem;
+  border: 1px solid whitesmoke;
+  margin: 1rem;
+  /* border-radius: 2rem; */
+  position: relative;
+}
+.secondSmallBoxHeader .anIcon{
+  font-size: 2rem;
+  transition: cursor .3s ease-in-out;
+}
+.secondSmallBoxHeader .anIcon:hover{
+  cursor: pointer;
+}
+
+/* it */
+.absoluteHeaderPart{
+  position: absolute;
+  left: 1rem;
+  right: 1rem;
+  top: 5.5rem;
+  display: none;
+}
+.divAbosulteHeader .divforIt{
+  position: relative;
+  left: 0;
+  right: 0;
+  margin-top: .5rem;
+  z-index: 2;
+}
+.divAbosulteHeader{
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border: 1px solid whitesmoke;
+  padding-top: .8rem;
+  padding-bottom: .8rem;
+  margin-top: -.5rem;
+  background-color: #242424;
+}
+.divAbsoulte2Header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.invisbleiT{
+  display: none;
+}
+.visble{
+  display: block;
+  z-index: 2;
+}
+.divAbsoulte2Header .hoverPointer{
+  transition: cursor .3s ease-in-out;
+}
+.divAbsoulte2Header .hoverPointer:hover{
+  cursor: pointer;
+}
+.divAbosulteHeader .divforIt p{
+  border: 1px solid whitesmoke;
+  padding-top: .8rem;
+  padding-bottom: .8rem;
+   padding-left: 1rem;
+  padding-right: 1rem;
+}
+.absoluteHeaderPart .linkRemover{
+  text-decoration: none;
+  color: whitesmoke;
+}
+.invisble{
+  display: none;
+}
+
+.smallBoxHeader p{
+  margin-top: -.6rem;
+  padding: 3rem;
+}
+
+.smallBoxHeader p:hover{
+  background-color: whitesmoke;
+  color: #242424;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.smallBoxHeader p span{
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  font-weight: bold;
+  padding-right: .2rem;
+  font-size: 1rem;
+}
+.iconAppear{
+  font-size: 3rem;
+  text-align: center;
+  margin-left: 1.5rem;
+  position: absolute;
+  color: gainsboro;
+}
+.iconAppear2{
+  margin-left: 0ren;
+  font-size: 3rem;
+  text-align: center;
+  position: absolute;
+  color: gainsboro;
+  margin-left: 1rem;
+}
+@media all and (max-width:1100px) {
+  /* .smallBoxHeader p {
+    width: 5%;
+  } */
+.iconAppear,.iconAppear2{
+  font-size: 2rem;
+}
+.iconAppear{
+  margin-left: 1rem;
+}
+.iconAppear2{
+  margin-left: 0rem;
+}
+.divContainer{
+  margin-left: -1rem;
+  text-align: center;
+}
+}
+
+.forList{
+  position: absolute;
+  top: 6.5rem;
+  background-color: whitesmoke;
+  padding: 1rem;
+  list-style: none;
+  left: 0;
+  right: 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border: 1px solid snow;
+  z-index: 1;
+}
+.forList li{
+  font-size: .9rem;
+  text-align: center;
+}
+@media all and (max-width:820px) {
+
+  .smallBoxHeader p span{
+    font-size: .8rem;
+  }
+  .forList li{
+    font-size: .6rem;
+    text-align: justify;
+  }
+  .iconAppear,.iconAppear2{
+    font-size: 1.2rem;
+  }
+  .iconAppear{
+    margin-left: .5rem;
+  }
+  .iconAppear2{
+    margin-left: 0rem;
+  }
+  .divContainer{
+    margin-left: -1rem;
+    text-align: center;
+  }
+}
+
+.TheboxHeader2{
+  background-color:transparent;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  position: absolute;
+  left: 2rem;
+  right: 2rem;
+  padding-top: 1rem;
+}
+.menuStyle{
+  font-size: 3rem;
+  transition: cursor .3s ease-in-out;
+}
+.menuStyle:hover{
+  cursor: pointer;
+}
+.TheboxHeader2 .smallHeaderBox2{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding-top: 1rem;
+}
+.iconBrush{
+  font-size: 3rem;
+  color: orangered;
+}
+.logoPart p{
+  font-size: .8rem;
+}
+@media all and (max-width:400px) {
+  .logoPart h4{
+    font-size: 1rem;
+  }
+  .iconBrush{
+    font-size: 2rem;
+  }
+  .menuStyle{
+    font-size: 2rem;
+  }
+}
+@keyframes moveUp {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+.animateTheBoxHeader{
+  position: absolute;
+  left: 0rem;
+  right: 0rem;
+  background-color: rgba(0, 0, 0, 0.658);
+  animation: moveUp 3s forwards;
+}
+.sticky {
+  position: sticky;
+  top: 0; 
+  z-index: 1000;
+  padding-right: 2rem;
+  left: 0;
+  right: 0;
+}
+/* main view */
+
+.mainPageView {
+  background-image: url("/zalfa-imani-DeTWuVp6prg-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 40rem;
+  box-sizing: border-box;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.forBorder {
+  border: 6px double #242424; 
+  width: 100%;
+  height: 38rem;
+  box-sizing: border-box;
+  padding: 1rem; 
+  }
+
+  .lineIcon{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .TheIcon{
+    font-size: 2rem;
+    color: gray;
+  }
+  
+  .secondBlack,.blogSection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .secondBlack2,.divBlog{
+    width: 50%;
+    /* background-color: aliceblue; */
+    margin-top: 2rem;
+  }
+  .secondBlack .infoSecond,.blogSection .infoSecond{
+    font-size: .8rem;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  .secondBlack h1,.blogSection h1{
+    text-align: center;
+    margin-bottom: .5rem;
+  }
+ 
+  .secondBlack2 .line,.divBlog .line{
+    border: 1px solid gray;
+    width: 50%;
+  }
+  .secondBtnContainer{
+    display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(4rem, 1fr));
+    align-items: center;
+    gap: .6rem;
+  }
+  .secondBtnContainer button {
+    background-color: orangered;
+    width: 100%;
+    margin-left: 0.4rem;
+    color: white;
+    font-size: 0.7rem;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  @media all and (max-width:1100px) {
+    .TheIcon{
+     font-size: 1rem;
+    } 
+  .secondBlack h1,.blogSection h1{
+    font-size: 3rem;
+  }
+  .secondBlack .infoSecond,.blogSection .infoSecond{
+    font-size: .6rem;
+  }
+  .secondBtnContainer button {
+    font-size: .5rem;
+  }
+   }
+  
+  .secondBtnContainer .hoverWhite {
+
+    animation: scaleUp 0.9s forwards ease-in-out; 
+  }
+  
+  @keyframes scaleUp {
+    0% {
+      background-color: white;
+      color: black;
+      transform: scale(0.2); 
+    }
+
+    20% {
+      background-color: white;
+      color: black;
+      transform: scale(0.5); 
+    }
+
+    0% {
+      background-color: white;
+      color: black;
+      transform: scale(0.9); /* Original size */
+    }
+
+    100% {
+      background-color: white;
+      color: black;
+      transform: scale(1.1); /* Slightly enlarged */
+    }
+  }
+
+
+.secondBtnContainer .trueWhite{
+  background-color: white;
+      color: black;
+}
+.thirdUl{
+  background-image: url("/x-y-uTKFPRAYUMQ-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: left; */
+  
+  box-sizing: border-box;
+}
+.thirdUl ul{
+  list-style: none;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+  gap: 1rem;
+  margin-right: 3rem;
+  margin-left: 0;
+  padding-left: 0;
+ 
+}
+.thirdUl li{
+  /* margin-left: -2rem; */
+}
+.thirdUl figure{
+  border: 15px solid;
+  border-bottom-color:black;
+  border-top-color: #2e2e2e;
+  border-left-color: #2e2e2e;
+  border-right-color: black;
+  box-sizing: border-box;
+padding: 10px;
+background-color: white;
+width: 100%;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+position: relative;
+}
+@media all and (max-width:330px) {
+  .thirdUl figure{
+    width: 80%;
+  }
+}
+.thirdUl ul li img{
+  width: 100%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+.thirdUl .forImage{
+  position: relative;
+}
+.thirdUl .figureIcon{
+  position: absolute;
+  top: -1rem;
+  font-size: 2rem;
+  color: orangered;
+  text-shadow: 2px 2px 4px rgba(158, 156, 10, 0.8);
+}
+.thirdUl figure:hover .darkAppear {
+  opacity: 1; 
+  transition: opacity 0.3s ease-in-out; 
+  cursor: pointer;
+}
+
+.thirdUl .darkAppear {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.74);
+  color: white;
+  opacity: 0; /* Initially hidden */
+  transition: opacity 0.3s ease-in-out; /* Smooth transition */
+}
+.thirdUl .darkAppear2{
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  margin-top: 4rem;
+  gap: 1rem;
+ 
+}
+.thirdUl .darkAppear2 .cameraIcon{
+  border-right: 1px solid white;
+  padding-right: .5rem;
+}
+.showingBlog{
+  margin-top: 3rem;
+}
+.art{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+.artImg{
+  width: 100%;
+  position: relative;
+}
+.artImg img{
+  width: 100%;
+  height: 20rem;
+  object-fit: cover;
+  object-position: top;
+
+}
+.divArrows{
+  position: absolute;
+  top: 9rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 2rem;
+  width: 100%;
+}
+.iconsArrow{
+  background-color: black;
+  transition: cursor .3s ease-in-out;
+}
+.iconsArrow:hover{
+  cursor: pointer;
+}
+.artContext{
+  text-align: center;
+}
+.artContext button{
+  background-color: orangered;
+  color: white;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-top: 1rem;
+}
+
+/* .forBorder {
+  border: 6px double #242424; 
+  width: 100%;
+  height: 38rem;
+  box-sizing: border-box;
+  padding: 1rem; 
+  } */
+
+  .aboutSection2{
+    display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+  }
+  .aboutImg{
+    width: 100%;
+  }
+  .aboutImg img{
+    width: 100%;
+    height: 40rem;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 2rem;
+  }
+  .part1 h3,.newletter{
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  .part1 p{
+    text-align: justify;
+  }
+  .part1{
+    margin-right: 1rem;
+  }
+
+  .newletter{
+    margin-top: 2rem;
+  }
+  .subs{
+    margin-top: .5rem;
+  }
+  .subs input{
+    width: 18rem;
+    padding-left: .5rem;
+    height: 2rem;
+  }
+  .subs button{
+    width: 10rem;
+    background-color: orangered;
+    padding-left: .5rem;
+    height: 2rem;
+    color: white;
+  }
+  .subs .green{
+    color: green;
+  }
+  .subs .red{
+    color: red;
+  }
+
+  @media all and (max-width:600px) {
+    .artContext h3,.aboutIntro h3{
+      font-size: 2rem;
+    }
+    .artContext p,.part1 p,.newletter p{
+      font-size: .9rem;
+      margin-top: 1rem;
+    }
+    .artContext{
+      margin-bottom: 2rem;
+    }
+    .art{
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    .artContext button{
+      font-size: .8rem;
+    }
+  }
+  @media all and (max-width:400px) {
+    .artContext p, .artContext button,.part1 p,.newletter p,.subs button{
+      font-size: .7rem;
+    }
+  }
