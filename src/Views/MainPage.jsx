@@ -13,6 +13,10 @@ import { TiPinOutline } from "react-icons/ti";
 import { BsCameraFill } from "react-icons/bs";
 import { IoIosArrowForward, IoIosArrowBack } from "react-icons/io";
 import { Link } from "react-router-dom";
+import { FaCcMastercard } from "react-icons/fa6";
+import { FaRegCreditCard } from "react-icons/fa";
+import { CiCreditCard1 } from "react-icons/ci";
+import { IoCardSharp } from "react-icons/io5";
 const MainPage = () => {
   const [isSticky, setSticky] = useState(1);
   const [allValue, setAllValue] = useState([]);
@@ -632,6 +636,48 @@ const MainPage = () => {
             </div>
         </section>
           </Box>
+
+        <footer>
+        <section className="blogSection">
+          <div className="divBlog footerLine">
+           
+            <div className="lineIcon">
+              <Typography className="line"></Typography>
+              <Typography>
+                <GiHeartburn className="TheIcon" />
+              </Typography>
+              <Typography className="line"></Typography>
+              <Typography>
+                <GiHeartburn className="TheIcon" />
+              </Typography>
+              <Typography className="line"></Typography>
+              <Typography>
+                <GiHeartburn className="TheIcon" />
+              </Typography>
+              <Typography className="line"></Typography>
+            </div>
+          </div>
+        </section>
+
+        <section className="anotherPart">
+          <div className="forContact">
+          <Link><Typography>Contact us</Typography></Link>
+          <Link><Typography>Privacy policy</Typography></Link>
+          <Link><Typography>Terms of use</Typography></Link>
+          <Link><Typography>Faq</Typography></Link>
+          </div>
+
+          <div className="forCards">
+<Typography><FaCcMastercard/></Typography>
+<Typography><FaRegCreditCard/></Typography>
+<Typography><CiCreditCard1/></Typography>
+<Typography><IoCardSharp/></Typography>
+          </div>
+            <div className="copyRight">
+           <Typography> &copy; 2024 DIOS ZARAM </Typography>
+            </div>
+        </section>
+        </footer>
     </>
   );
 };
