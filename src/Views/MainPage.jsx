@@ -1,6 +1,6 @@
 import Header2 from "../Component/Header2";
 import { Box, Typography, Button } from "@mui/material";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useReducer} from "react";
 import Art from "../DescribeJson/Art.json";
 import Design from "../DescribeJson/Design.json";
 import Music from "../DescribeJson/Music.json";
@@ -231,6 +231,7 @@ const MainPage = () => {
       }
   };
 
+  
   return (
     <>
       <Header2 />
@@ -360,7 +361,9 @@ const MainPage = () => {
                           <div>
                             <Typography>{el.name}</Typography>
                             <Typography>${el.price}</Typography>
+
                           </div>
+                          
                         </div>
                       </section>
                     </LazyLoad>
