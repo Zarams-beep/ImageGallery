@@ -420,6 +420,7 @@ const MainPage = () => {
                 alt="Art"
                 className="imgArt"
               />
+              <div className="borderImg"></div>
               <div className="divArrows">
                 <IoIosArrowBack
                   onClick={handlePreviousArt}
@@ -466,6 +467,7 @@ const MainPage = () => {
                 alt="Comm"
                 className="imgArt"
               />
+               <div className="borderImg"></div>
               <div className="divArrows">
                 <IoIosArrowBack
                   onClick={handlePreviousComm}
@@ -487,6 +489,7 @@ const MainPage = () => {
                 alt="Comm"
                 className="imgArt"
               />
+               <div className="borderImg"></div>
               <div className="divArrows">
                 <IoIosArrowBack
                   onClick={handlePreviousTech}
@@ -533,6 +536,7 @@ const MainPage = () => {
                 alt="Comm"
                 className="imgArt"
               />
+               <div className="borderImg"></div>
               <div className="divArrows">
                 <IoIosArrowBack
                   onClick={handlePreviousMusic}
@@ -556,6 +560,7 @@ const MainPage = () => {
                 alt="Comm"
                 className="imgArt"
               />
+               <div className="borderImg"></div>
               <div className="divArrows">
                 <IoIosArrowBack
                   onClick={handlePreviousDesign}

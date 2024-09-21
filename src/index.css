@@ -501,6 +501,18 @@ position: relative;
   object-position: top;
 
 }
+.artImg .borderImg {
+  border: 1px solid white; 
+  /* width: 100%; */
+  /* height: 20rem; */
+  box-sizing: border-box;
+  padding: 1rem; 
+  position: absolute;
+  top: 1rem;
+  bottom: 1rem;
+  left: 1rem;
+  right: 1rem;
+  }
 .divArrows{
   position: absolute;
   top: 9rem;
@@ -528,13 +540,7 @@ position: relative;
   margin-top: 1rem;
 }
 
-/* .forBorder {
-  border: 6px double #242424; 
-  width: 100%;
-  height: 38rem;
-  box-sizing: border-box;
-  padding: 1rem; 
-  } */
+
 
   .aboutSection2{
     display: grid;
