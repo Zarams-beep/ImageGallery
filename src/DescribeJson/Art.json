@@ -1,61 +1,61 @@
 [
-    {"id": 1, "name": "Abstract Canvas", "price": 150.00, "description": "Vibrant abstract painting on canvas.", "img":"src/ImageFolder/Art/alexander-grey-LV7lkepljdM-unsplash.jpg"},
+    {"id": 1, "name": "Abstract Canvas", "price": 150.00, "description": "Vibrant abstract painting on canvas.", "img":"/ImageFolder/Art/alexander-grey-LV7lkepljdM-unsplash.jpg"},
 
-    {"id": 2, "name": "Watercolor Set", "price": 45.00, "description": "Professional watercolor paints with brushes.", "img":"src/ImageFolder/Art/andrew-ridley-jR4Zf-riEjI-unsplash.jpg"},
+    {"id": 2, "name": "Watercolor Set", "price": 45.00, "description": "Professional watercolor paints with brushes.", "img":"/ImageFolder/Art/andrew-ridley-jR4Zf-riEjI-unsplash.jpg"},
 
-    {"id": 3, "name": "Sculpture A", "price": 300.00, "description": "Elegant marble sculpture of a figure.", "img":"src/ImageFolder/Art/john-torcasio-_nA-G-NOHBk-unsplash.jpg"},
+    {"id": 3, "name": "Sculpture A", "price": 300.00, "description": "Elegant marble sculpture of a figure.", "img":"/ImageFolder/Art/john-torcasio-_nA-G-NOHBk-unsplash.jpg"},
 
-    {"id": 4, "name": "Acrylic Paint Set", "price": 35.00, "description": "12 vibrant acrylic paints for artists.", "img":"src/ImageFolder/Art/usgs-5WWgv98ijbs-unsplash.jpg"},
+    {"id": 4, "name": "Acrylic Paint Set", "price": 35.00, "description": "12 vibrant acrylic paints for artists.", "img":"/ImageFolder/Art/usgs-5WWgv98ijbs-unsplash.jpg"},
 
-    {"id": 5, "name": "Framed Print", "price": 75.00, "description": "Beautiful landscape print in a wooden frame.", "img":"src/ImageFolder/Art/fons-heijnsbroek-abstract-art-AddxUGgVonQ-unsplash.jpg"},
+    {"id": 5, "name": "Framed Print", "price": 75.00, "description": "Beautiful landscape print in a wooden frame.", "img":"/ImageFolder/Art/fons-heijnsbroek-abstract-art-AddxUGgVonQ-unsplash.jpg"},
 
-    {"id": 6, "name": "Artistic Notebook", "price": 20.00, "description": "Sketchbook with high-quality paper.", "img":"src/ImageFolder/Art/christopher-burns-BdVQU-NDtA8-unsplash.jpg"},
+    {"id": 6, "name": "Artistic Notebook", "price": 20.00, "description": "Sketchbook with high-quality paper.", "img":"/ImageFolder/Art/christopher-burns-BdVQU-NDtA8-unsplash.jpg"},
 
-    {"id": 7, "name": "Ceramic Vase", "price": 60.00, "description": "Handcrafted vase with unique glaze.", "img":"src/ImageFolder/Art/vladislav-iakunichev-uPrdy0UKk7s-unsplash.jpg"},
+    {"id": 7, "name": "Ceramic Vase", "price": 60.00, "description": "Handcrafted vase with unique glaze.", "img":"/ImageFolder/Art/vladislav-iakunichev-uPrdy0UKk7s-unsplash.jpg"},
 
-    {"id": 8, "name": "Color Pencil Set", "price": 25.00, "description": "24 premium colored pencils for drawing.", "img":"src/ImageFolder/Art/fons-heijnsbroek-abstract-art-d_nZZuGsIt0-unsplash.jpg"},
+    {"id": 8, "name": "Color Pencil Set", "price": 25.00, "description": "24 premium colored pencils for drawing.", "img":"/ImageFolder/Art/fons-heijnsbroek-abstract-art-d_nZZuGsIt0-unsplash.jpg"},
 
-    {"id": 9, "name": "Canvas Panel", "price": 15.00, "description": "Pack of 3 primed canvas panels.", "img":"src/ImageFolder/Art/usgs-eFbxYl9M_lc-unsplash.jpg"},
+    {"id": 9, "name": "Canvas Panel", "price": 15.00, "description": "Pack of 3 primed canvas panels.", "img":"/ImageFolder/Art/usgs-eFbxYl9M_lc-unsplash.jpg"},
 
-    {"id": 10, "name": "Oil Paint Set", "price": 50.00, "description": "Set of 12 oil paints for classic artistry.", "img":"src/ImageFolder/Art/usgs-Xa5DOnk7_zU-unsplash.jpg"},
+    {"id": 10, "name": "Oil Paint Set", "price": 50.00, "description": "Set of 12 oil paints for classic artistry.", "img":"/ImageFolder/Art/usgs-Xa5DOnk7_zU-unsplash.jpg"},
 
-    {"id": 11, "name": "Art Print Poster", "price": 30.00, "description": "High-quality print of famous artwork.", "img":"src/ImageFolder/Art/mcgill-library-osPrIcTwJy4-unsplash.jpg"},
+    {"id": 11, "name": "Art Print Poster", "price": 30.00, "description": "High-quality print of famous artwork.", "img":"/ImageFolder/Art/mcgill-library-osPrIcTwJy4-unsplash.jpg"},
 
-    {"id": 12, "name": "Wooden Easel", "price": 70.00, "description": "Adjustable easel for painting and display.", "img":"src/ImageFolder/Art/nathan-cima-lrJj7CDDwq4-unsplash.jpg"},
+    {"id": 12, "name": "Wooden Easel", "price": 70.00, "description": "Adjustable easel for painting and display.", "img":"/ImageFolder/Art/nathan-cima-lrJj7CDDwq4-unsplash.jpg"},
 
-    {"id": 13, "name": "Mixed Media Art Kit", "price": 40.00, "description": "All-in-one kit for mixed media projects.", "img":"src/ImageFolder/Art/hans-vivek-kj8qU9--B3U-unsplash.jpg"},
+    {"id": 13, "name": "Mixed Media Art Kit", "price": 40.00, "description": "All-in-one kit for mixed media projects.", "img":"/ImageFolder/Art/hans-vivek-kj8qU9--B3U-unsplash.jpg"},
 
-    {"id": 14, "name": "Handmade Journal", "price": 25.00, "description": "Leather-bound journal with hand-stitched pages.", "img":"src/ImageFolder/Art/guy-yama-54QjR03LEUs-unsplash.jpg"},
+    {"id": 14, "name": "Handmade Journal", "price": 25.00, "description": "Leather-bound journal with hand-stitched pages.", "img":"/ImageFolder/Art/guy-yama-54QjR03LEUs-unsplash.jpg"},
 
-    {"id": 15, "name": "Digital Drawing Tablet", "price": 120.00, "description": "Tablet for digital artists with pressure sensitivity.", "img":"src/ImageFolder/Art/efe-kurnaz-RnCPiXixooY-unsplash.jpg"},
+    {"id": 15, "name": "Digital Drawing Tablet", "price": 120.00, "description": "Tablet for digital artists with pressure sensitivity.", "img":"/ImageFolder/Art/efe-kurnaz-RnCPiXixooY-unsplash.jpg"},
 
-    {"id": 16, "name": "Art Earth", "price": 35.00, "description": "Stunning Art of Earth.", "img":"src/ImageFolder/Art/simon-lee-pLmKmygkT7g-unsplash.jpg"},
+    {"id": 16, "name": "Art Earth", "price": 35.00, "description": "Stunning Art of Earth.", "img":"/ImageFolder/Art/simon-lee-pLmKmygkT7g-unsplash.jpg"},
 
-    {"id": 17, "name": "Direction", "price": 30.00, "description": "Yellow Compass for Direction.", "img":"src/ImageFolder/Art/marek-mucha-Tnv6HtxDl9M-unsplash.jpg"},
+    {"id": 17, "name": "Direction", "price": 30.00, "description": "Yellow Compass for Direction.", "img":"/ImageFolder/Art/marek-mucha-Tnv6HtxDl9M-unsplash.jpg"},
 
-    {"id": 18, "name": "Charcoal Drawing Set", "price": 20.00, "description": "Includes various charcoal pencils and tools.", "img":"src/ImageFolder/Art/visax-hBa68pkZD88-unsplash.jpg"},
+    {"id": 18, "name": "Charcoal Drawing Set", "price": 20.00, "description": "Includes various charcoal pencils and tools.", "img":"/ImageFolder/Art/visax-hBa68pkZD88-unsplash.jpg"},
 
-    {"id": 19, "name": "Art on the RoadSide", "price": 55.00, "description": "Passion Led Us Here.", "img":"src/ImageFolder/Art/ian-schneider-TamMbr4okv4-unsplash.jpg"},
+    {"id": 19, "name": "Art on the RoadSide", "price": 55.00, "description": "Passion Led Us Here.", "img":"/ImageFolder/Art/ian-schneider-TamMbr4okv4-unsplash.jpg"},
 
-    {"id": 20, "name": "Skull Rainbow", "price": 40.00, "description": "Skull Rainbow in a White Background.", "img":"src/ImageFolder/Art/erick-butler-e-RknRhHpgQ-unsplash.jpg"},
+    {"id": 20, "name": "Skull Rainbow", "price": 40.00, "description": "Skull Rainbow in a White Background.", "img":"/ImageFolder/Art/erick-butler-e-RknRhHpgQ-unsplash.jpg"},
 
-    {"id": 21, "name": "Rooted Art", "price": 30.00, "description": "Rooted Tree with Sun Reflection.", "img":"src/ImageFolder/Art/jeremy-bishop-EwKXn5CapA4-unsplash.jpg"},
+    {"id": 21, "name": "Rooted Art", "price": 30.00, "description": "Rooted Tree with Sun Reflection.", "img":"/ImageFolder/Art/jeremy-bishop-EwKXn5CapA4-unsplash.jpg"},
 
-    {"id": 22, "name": "Blue Birds Art", "price": 100.00, "description": "Brown Wood with Blue Birds.", "img":"src/ImageFolder/Art/mcgill-library-JcoZbI7Ve1Q-unsplash.jpg"},
+    {"id": 22, "name": "Blue Birds Art", "price": 100.00, "description": "Brown Wood with Blue Birds.", "img":"/ImageFolder/Art/mcgill-library-JcoZbI7Ve1Q-unsplash.jpg"},
 
-    {"id": 23, "name": "Framed Shadow Box", "price": 80.00, "description": "3D frame for displaying small objects.", "img":"src/ImageFolder/Art/greg-rakozy-oMpAz-DN-9I-unsplash.jpg"},
+    {"id": 23, "name": "Framed Shadow Box", "price": 80.00, "description": "3D frame for displaying small objects.", "img":"/ImageFolder/Art/greg-rakozy-oMpAz-DN-9I-unsplash.jpg"},
 
-    {"id": 24, "name": "Artistic Wall Abstract", "price": 25.00, "description": "Artistic Wall Abstract.", "img":"src/ImageFolder/Art/usgs-Yi06GUt3rA4-unsplash.jpg"},
+    {"id": 24, "name": "Artistic Wall Abstract", "price": 25.00, "description": "Artistic Wall Abstract.", "img":"/ImageFolder/Art/usgs-Yi06GUt3rA4-unsplash.jpg"},
 
-    {"id": 25, "name": "Portrait Painting", "price": 400.00, "description": "Custom portrait painting on canvas.", "img":"src/ImageFolder/Art/dian-maldini-g6QkcGgLvtQ-unsplash.jpg"},
+    {"id": 25, "name": "Portrait Painting", "price": 400.00, "description": "Custom portrait painting on canvas.", "img":"/ImageFolder/Art/dian-maldini-g6QkcGgLvtQ-unsplash.jpg"},
 
-    {"id": 26, "name": "Abstract Work", "price": 60.00, "description": "Abstract Wooden Work.", "img":"src/ImageFolder/Art/anne-nygard-9rxnPIZFA1c-unsplash.jpg"},
+    {"id": 26, "name": "Abstract Work", "price": 60.00, "description": "Abstract Wooden Work.", "img":"/ImageFolder/Art/anne-nygard-9rxnPIZFA1c-unsplash.jpg"},
 
-    {"id": 27, "name": "Smokey Cloud", "price": 350.00, "description": "Brown Smokey Cloud.", "img":"src/ImageFolder/Art/visax-yYw1JK-d8JA-unsplash.jpg"},
+    {"id": 27, "name": "Smokey Cloud", "price": 350.00, "description": "Brown Smokey Cloud.", "img":"/ImageFolder/Art/visax-yYw1JK-d8JA-unsplash.jpg"},
 
-    {"id": 28, "name": "Artisan Earth Pattern", "price": 50.00, "description": "Creative Pattern of Earth.", "img":"src/ImageFolder/Art/usgs-XcAtJv_Y1TI-unsplash.jpg"},
+    {"id": 28, "name": "Artisan Earth Pattern", "price": 50.00, "description": "Creative Pattern of Earth.", "img":"/ImageFolder/Art/usgs-XcAtJv_Y1TI-unsplash.jpg"},
 
-    {"id": 29, "name": "Kingdom Building", "price": 15.00, "description": "Painting of a Kingdom Building.", "img":"src/ImageFolder/Art/nathan-cima-vG5akutNqCM-unsplash.jpg"},
+    {"id": 29, "name": "Kingdom Building", "price": 15.00, "description": "Painting of a Kingdom Building.", "img":"/ImageFolder/Art/nathan-cima-vG5akutNqCM-unsplash.jpg"},
 
-    {"id": 30, "name": "Decorative Art Frame", "price": 45.00, "description": "Stylish frame for showcasing artwork.", "img":"src/ImageFolder/Art/maxim-berg-9XunOfueKKI-unsplash.jpg"}
+    {"id": 30, "name": "Decorative Art Frame", "price": 45.00, "description": "Stylish frame for showcasing artwork.", "img":"/ImageFolder/Art/maxim-berg-9XunOfueKKI-unsplash.jpg"}
 ]
